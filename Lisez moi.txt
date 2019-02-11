@@ -1,0 +1,26 @@
+== PROJET LABYRINTHE ==
+SPACEBOY par Alexandre Courtin et Etienne Lavayssiere
+
+SpaceBoy pour les nuls :
+
+- Touches directionnelles pour déplacer le personnage.
+-- Se déplacer vers une porte pour la franchir.
+-- Se déplacer vers un objet pour le mettre dans son inventaire. (Si y'a d'la place)
+-- Eviter les ennemis éléctrique.
+
+- Espace pour tirer. (Le joueur doit d'abord trouver le pistolet)
+-- Tirer sur les ennemis éléctrique pour les détruire.
+
+- Clic gauche sur un objet de l'inventaire pour l'utiliser
+-- Potion Rouge pour la santée, Verte pour l'énergie.
+-- Sur une clé pour ouvrir la porte de couleur correspondante dans la pièce.
+
+- Clic droit pour déposer un objet par terre.
+-- Possibilité de reprendre l'objet plus tard.
+
+- La map se dévoile au fur et à mesure que l'on explore les pièces.
+-- Case rouge : Position du joueur
+-- Case bleue : Pièce déjà découverte
+-- Case jaune : Pièce du trésor
+
+- But du jeu : Trouver la bière de l'espace ! Son emplacement est indiquée par une case jaune sur la map.
